@@ -1,0 +1,9 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=Forensics_Inspection
+Comment=
+Exec=  python /root/Desktop/Forensics_Inspection/final_mastercode.py
+StartupNotify=false
+Terminal=true
+Hidden=false
